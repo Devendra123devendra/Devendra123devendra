@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi 👋 I'm Devendra Kushwah
 
-<!--
-**Devendra123devendra/Devendra123devendra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Scientist passionate about data analysis and machine learning.
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Python
+- SQL
+- Pandas & NumPy
+- Data Analysis (EDA)
+- Power BI
+- Machine Learning (Beginner)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Projects
+- Amazon Data Analysis (Power BI & EDA)
+- Solar Power Prediction
+- Fitness App (MERN Stack – Learning)
+
+## 🌱 Currently Learning
+- Advanced Machine Learning
+- Data Visualization
+- Real-world datasets
+
+## 📫 Connect with Me
+- GitHub: https://github.com/Devendra123devendra
