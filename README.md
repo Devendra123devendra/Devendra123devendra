@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Data Science Banner" width="100%" />
+  <img src="big-data-science-analysis-information-technology-concept-server-room-background-photo.jpg" alt="Data Science Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Devendra Kushwah</h1>
